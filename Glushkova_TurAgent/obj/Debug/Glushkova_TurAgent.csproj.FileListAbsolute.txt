@@ -1,0 +1,12 @@
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\bin\Debug\Glushkova_TurAgent.exe.config
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\bin\Debug\Glushkova_TurAgent.exe
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\bin\Debug\Glushkova_TurAgent.pdb
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.Form1.resources
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.Properties.Resources.resources
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.csproj.GenerateResource.cache
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.csproj.CoreCompileInputs.cache
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.exe
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.pdb
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.Auth.resources
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.csprojAssemblyReference.cache
+C:\Users\arina\source\repos\Glushkova_TurAgent\Glushkova_TurAgent\obj\Debug\Glushkova_TurAgent.Add.resources
