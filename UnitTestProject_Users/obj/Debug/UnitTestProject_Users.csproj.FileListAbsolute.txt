@@ -1,0 +1,38 @@
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\UnitTestProject_Users.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\UnitTestProject_Users.pdb
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\CheckUser.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\CheckUser.pdb
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.csprojAssemblyReference.cache
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.csproj.CoreCompileInputs.cache
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.csproj.CopyComplete
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.dll
+C:\Users\arina\source\repos\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.pdb
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\UnitTestProject_Users.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\UnitTestProject_Users.pdb
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\CheckUser.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\CheckUser.pdb
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.csprojAssemblyReference.cache
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.csproj.CoreCompileInputs.cache
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.csproj.CopyComplete
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\UnitTestProject_Users\obj\Debug\UnitTestProject_Users.pdb

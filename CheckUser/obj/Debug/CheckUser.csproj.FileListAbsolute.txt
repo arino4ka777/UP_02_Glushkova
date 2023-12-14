@@ -1,0 +1,12 @@
+C:\Users\arina\source\repos\CheckUser\CheckUser\obj\Debug\CheckUser.csprojAssemblyReference.cache
+C:\Users\arina\source\repos\CheckUser\CheckUser\obj\Debug\CheckUser.csproj.CoreCompileInputs.cache
+C:\Users\arina\source\repos\CheckUser\CheckUser\bin\Debug\CheckUser.dll
+C:\Users\arina\source\repos\CheckUser\CheckUser\bin\Debug\CheckUser.pdb
+C:\Users\arina\source\repos\CheckUser\CheckUser\obj\Debug\CheckUser.dll
+C:\Users\arina\source\repos\CheckUser\CheckUser\obj\Debug\CheckUser.pdb
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\CheckUser\bin\Debug\CheckUser.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\CheckUser\bin\Debug\CheckUser.pdb
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\CheckUser\obj\Debug\CheckUser.csprojAssemblyReference.cache
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\CheckUser\obj\Debug\CheckUser.csproj.CoreCompileInputs.cache
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\CheckUser\obj\Debug\CheckUser.dll
+H:\УП02\Задания\Отчеты\Задание 6\CheckUser\CheckUser\obj\Debug\CheckUser.pdb
